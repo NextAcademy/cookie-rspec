@@ -65,7 +65,9 @@ describe Cookie do
 
     context "when baked for at least 12 minutes" do
       it "is `:burned`"
-
+      # test
+      # test
+      # test
     end
   end
 end
